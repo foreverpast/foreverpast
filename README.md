@@ -1,11 +1,13 @@
 ## Hi there 👋
 
-Here are some ideas to get you started:
+Here i'm trying to become a fullstack web-developer
 
 - 🔭 I’m currently working on my personal projects, but i'm open for offers
   
 - 🌱 I’m currently learning Javascript, Typescript, React, NodeJS and just a little bit of Python
 
-- 📫 How to reach me:
-- [X (formerly Twitter): @foreverpasttt](https://x.com/foreverpasttt)
+- 📫 My Social Links:
+- [X: @foreverpasttt](https://x.com/foreverpasttt)
 - [Telegram: @ForeverPast](https://t.me/ForeverPast)
+- [Roadmap.sh](https://roadmap.sh/u/notnered)
+- [Itch.io](https://foreverpast.itch.io/)
