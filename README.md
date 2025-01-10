@@ -1,4 +1,4 @@
-## Hi there, random user 👋
+## Hi there 👋
 
 Here i'm trying to become a fullstack web-developer
 
