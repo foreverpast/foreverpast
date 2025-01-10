@@ -8,6 +8,6 @@ Here i'm trying to become a fullstack web-developer
 
 - 💬 My Social Links:
 - [X: @foreverpasttt](https://x.com/foreverpasttt)
-- [Telegram: @NotNered](https://t.me/NotNered)
-- [Roadmap.sh](https://roadmap.sh/u/notnered)
+- [Telegram: @foreverpast](https://t.me/foreverpast)
+- [Roadmap.sh](https://roadmap.sh/u/foreverpast)
 - [Itch.io](https://foreverpast.itch.io/)
