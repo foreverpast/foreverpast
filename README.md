@@ -10,4 +10,3 @@ Here i'm trying to become a fullstack web-developer
 - [X: @foreverpasttt](https://x.com/foreverpasttt)
 - [Telegram: @foreverpast](https://t.me/foreverpast)
 - [Roadmap.sh](https://roadmap.sh/u/foreverpast)
-- [Itch.io](https://foreverpast.itch.io/)
