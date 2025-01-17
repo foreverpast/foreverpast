@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, my name is Konstantin 👋
 
 Here i'm trying to become a fullstack web-developer
 
@@ -7,6 +7,6 @@ Here i'm trying to become a fullstack web-developer
 - 📒 My frontend stack is JS(ES7+), TS, React, TailwindCSS/SCSS. My Backend stack is mainly NodeJS(ExpressJS), NextJS. Also i have some knowledge of Python and C# for side-projects
 
 - 💬 My Social Links:
-- [X: @foreverpasttt](https://x.com/foreverpasttt)
-- [Telegram: @foreverpast](https://t.me/foreverpast)
-- [Roadmap.sh](https://roadmap.sh/u/foreverpast)
+- [X: @foreverpasttt](https://x.com/nererererere)
+- [Telegram: @foreverpast](https://t.me/notnered)
+- [Roadmap.sh](https://roadmap.sh/u/notnered)
